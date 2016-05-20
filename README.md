@@ -1,4 +1,5 @@
 # DaleB-1.github.io
-Just testing is all; I'm new to all this stuff.
+
+Just testing is all I can say right now; I'm new to all this stuff and it took me 2 days just to get this far.
+
 If you know who has hijacked my DaleB username, please let know.
-I'd better go and get my other half from the hairdresser now.
