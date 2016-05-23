@@ -1,29 +1,38 @@
-<HTML>
-<HEAD>
-<SCRIPT src="bella01.js" LANGUAGE="JAVASCRIPT" TYPE="TEXT/JAVASCRIPT"></SCRIPT>
-<LINK HREF="bella.css" REL="STYLESHEET" TYPE="text/css">
-<TITLE>Quote</TITLE>
-</HEAD>
-<BODY background="images/background.png">
-<TABLE width="125" border="1" bgcolor="#009900">
-<TR>
-<TD>
-	<H1>Here's a thought for the day.  Did you know that:</H1>
-	<P class="quote"> 
-	<SCRIPT LANGUAGE="JAVASCRIPT" TYPE="TEXT/JAVASCRIPT">
-	showquote();
-	</SCRIPT>
-	<BR><BR></P>
-	<H1>Now, not many people know that!</H1>
-</TD>
-</TR>
+<!DOCTYPE html>
+<html>
+<head>
+	<!-- Latest compiled and minified CSS -->
+	<link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
 
-<TR>
-<TD>
-<P CLASS="quote"><A HREF="tip.html">Click here for the tip of the day</A></P>
-</TD>
-</TR>
+	<!-- jQuery library -->
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.2/jquery.min.js"></script>
 
-</TABLE>
-</BODY>
-</HTML>
+	<!-- Latest compiled JavaScript -->
+	<script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>	
+	
+	<title>Quote of the Day</title>
+	<link rel="stylesheet" href="css/main.css">
+	<script src="scripts/quote.js"></script>
+</head>
+<body>
+	<table class = "table table-bordered table-condensed">
+		<thead>
+			<tr>
+				<h4>Here's a thought for the day.  Did you know that:<br><br></h4>
+			</tr>
+		</thead>
+		<tbody>
+			<tr>
+				<p class="quote"> 
+				<script language="javascript" type="text/javascript">
+					showquote();
+				</script>
+				<br><br></p>
+			</tr>
+			<tr>
+				<h4>Now, not many people know that!</h4>
+			</tr>
+		</tbody>
+	</table>	
+</body>
+</html>
