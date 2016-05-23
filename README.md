@@ -1,5 +1,5 @@
 # DaleB-1.github.io
 
-Just testing is all I can say right now; I'm new to all this stuff and it took me 2 days just to get this far.
+This is a "just testing" environment; I'm new to all this stuff so it's a work in progress.
 
 If you know who has hijacked my DaleB username, please let know.
